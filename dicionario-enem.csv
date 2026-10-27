@@ -1,0 +1,27 @@
+VARIAVEL,DESCRICAO
+NU_INSCRICAO,Número de inscrição1 
+NU_ANO,Ano do Enem
+TP_FAIXA_ETARIA,Faixa etária2
+TP_SEXO,Sexo
+TP_ESTADO_CIVIL,Estado Civil
+TP_COR_RACA,Cor/raça
+TP_NACIONALIDADE,Nacionalidade
+TP_ST_CONCLUSAO,Situação de conclusão do Ensino Médio
+TP_ANO_CONCLUIU,Ano de Conclusão do Ensino Médio
+TP_ESCOLA,Tipo de escola do Ensino Médio
+TP_ENSINO,Tipo de instituição que concluiu ou concluirá o Ensino Médio 
+IN_TREINEIRO,Indica se o inscrito fez a prova com intuito de apenas treinar seus conhecimentos3
+CO_UF_ESC,Código da Unidade da Federação da escola
+SG_UF_ESC,Sigla da Unidade da Federação da escola
+TP_DEPENDENCIA_ADM_ESC,Dependência administrativa (Escola)
+TP_LOCALIZACAO_ESC,Localização (Escola)
+TP_SIT_FUNC_ESC,Situação de funcionamento (Escola)
+CO_MUNICIPIO_PROVA,Código do município da aplicação da prova
+CO_UF_PROVA,Código da Unidade da Federação da aplicação da prova
+SG_UF_PROVA,Sigla da Unidade da Federação da aplicação da prova
+NU_NOTA_CN,Nota da prova de Ciências da Natureza
+NU_NOTA_CH,Nota da prova de Ciências Humanas
+NU_NOTA_LC,Nota da prova de Linguagens e Códigos
+NU_NOTA_MT,Nota da prova de Matemática
+TP_LINGUA,Língua Estrangeira 
+NU_NOTA_REDACAO,Nota da prova de redação

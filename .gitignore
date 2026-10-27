@@ -1,0 +1,27 @@
+# Ambientes virtuais e dependências
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Microdados volumosos e arquivos compactados
+data/*.parquet
+data/*.csv
+*.parquet
+*.zip
+*.tar.gz
+
+# Documentação acadêmica institucional e arquivos locais
+models/
+proposta_tcc_enem_variabilidade.pdf
+report/
+tcc_enem_variabilidade/
+
+# Arquivos do sistema operacional e IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
